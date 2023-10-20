@@ -1,0 +1,4 @@
+{
+  "include": ["static/**/*.js", "views/**/*.js"],
+  "extends": "./tsconfig.json"
+}
